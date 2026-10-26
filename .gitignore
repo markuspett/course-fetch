@@ -1,0 +1,15 @@
+# Course material and secrets: never commit
+mp3/
+slides/
+transcripts/
+INDEX.md
+schedule.json
+*.env
+.env*
+token*
+cookies*.txt
+
+# Python / OS
+__pycache__/
+.venv/
+.DS_Store
